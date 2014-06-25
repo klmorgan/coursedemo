@@ -1,5 +1,8 @@
 File 2 test
 Add second line
+<<<<<<< HEAD
 GJG add third line
 klm 2 new line
 
+=======
+>>>>>>> parent of 45127e0... KLM's File2 - added third line of text
